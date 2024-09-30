@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download my [CV](files/Xinwei_Sep2024.pdf)
+Download my [CV](https://github.com/XinweiBuffalo/academicpages.github.io/blob/b38ac7c4c7531c4e2be2ad1e747940dc295854a4/files/Xinwei_Sep2024.pdf)
