@@ -22,13 +22,13 @@ repository               : "https://xinweibuffalo.github.io/academicpages.github
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Xin-Wei Huang"
+  pronouns         : "he/him"  
+  bio              : "I am Ph.D. candidate in Biostatistics"
+  location         : "Buffalo, NY"
+  employer         : "University at Buffalo/ Roswell Park Comprehensive Cancer Center"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xinweihuangstat@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
