@@ -12,7 +12,7 @@ title                    : "Xin-Wei Huang / Homepage"
 title_separator          : "-"
 name                     : &name "xinweihuang"
 description              : &description
-url                      : "http://xinweihuang.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://xinweihuang.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XinweiBuffalo/academicpages.github.io" # "academicpages/academicpages.github.io"
 
