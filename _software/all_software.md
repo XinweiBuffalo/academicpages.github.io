@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-I mainly develop R packages the corresponds to statistical methodologies.
+I mainly develop R packages for the statistical methodologies.
 
 
 ### corrMCT 
