@@ -20,7 +20,7 @@ I welcome collaborations on these and related topics and am open to discussing a
 Contact me: <xinweihuangstat@gmail.com>
 
 
-## Advertising for UBuffalo ASA student chpter!
+## Advertising for UBuffalo ASA student chapter!
 I co-founded the UBuffalo ASA student chapter with my peers Shuliang, Hyun-ah, and Xiaoyi. We are actively organizing academic activities, including student seminars, and are offering statistical consulting services for Ph.D. students in other fields. We are also seeking opportunities for collaboration in applied research. If you are interested in presenting to our community or exploring possible collaborations, please feel free to contact me.
 
 
