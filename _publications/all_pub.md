@@ -5,8 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=GNz_4loAAAAJ&hl=en){:target="_blank"}.
+You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=GNz_4loAAAAJ&hl=en){:target="_blank"}.
 
+## Book
+![alt text](https://media.springernature.com/full/springer-static/cover-hires/book/978-981-15-4998-4?as=webp)
+ - Sun, L.-H., **Huang, X.-W.**, Alqawba, M. S., Kim, J.-M., & Emura, T. (2020). Copula-based Markov models for time series: Parametric inference and Process Control. Singapore: Springer. [[link]](https://link.springer.com/book/10.1007/978-981-15-4998-4){:target="_blank"}
 
 ## Articles
 (* is the corresponding author)
@@ -35,5 +38,4 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
  - ***Huang, X.-W.**, Hua, J., Banerjee, B, Wang, X., Li, Q. (2024+) An advanced design of weighted Hochberg procedure with correlated endpoints.  
 
-## Book
- - Sun, L.-H., **Huang, X.-W.**, Alqawba, M. S., Kim, J.-M., & Emura, T. (2020). Copula-based Markov models for time series: Parametric inference and Process Control. Singapore: Springer. [[link]](https://link.springer.com/book/10.1007/978-981-15-4998-4){:target="_blank"}
+
